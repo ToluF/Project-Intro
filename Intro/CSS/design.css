@@ -1,0 +1,41 @@
+body {
+    background-color: #390ad4;
+    display: flex;
+    justify-content: center;
+}
+
+.textclass {
+    background-color: rgb(73, 246, 10);
+    color: rgb(253, 253, 253);
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    border-radius: 2rem;
+    max-width: 1000px;
+    min-height: 850px;
+}
+
+img {
+    margin: 2rem;
+    border-radius: 3rem;
+}
+
+.inner {
+    margin: 2rem;
+    border-radius: 2rem;
+    padding: 2rem;
+    background-color: white;
+    color: black;
+}
+
+.outer {
+    margin-top: 5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.leftside {
+    display: flex;
+    align-items: center;
+    margin-right: 2rem;
+}
